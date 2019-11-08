@@ -1,4 +1,4 @@
-1.Download and extract files
+1.Download 'seng202_2019_team1_phase3.zip' and extract files.
 
 LAUNCH APP:
 run the command "java -jar team1_app_phase3.jar" in terminal from the folder the .jar is stored in.
