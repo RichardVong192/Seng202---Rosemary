@@ -1,3 +1,5 @@
+1.Download and extract files
+
 LAUNCH APP:
 run the command "java -jar team1_app_phase3.jar" in terminal from the folder the .jar is stored in.
 the app data will be stored in the file "rosemary.db" in the same folder as the .jar file. Do not move this file if you want to keep your data.
