@@ -1,4 +1,5 @@
-# Git repo for Seng202 Group project Rosemary. A food truck cash register like application.
+# Seng202 Software Engineering Project Workshop.
+Git repo for ence260_2019_S2. A food truck cash register like application.
 
 
 1.Download 'seng202_2019_team1_phase3.zip' and extract files.
