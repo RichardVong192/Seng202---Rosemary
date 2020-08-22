@@ -1,5 +1,5 @@
 # Seng202 Software Engineering Project Workshop.
-## Git repo for ence260_2019_S2. A food truck cash register like application.
+## Git repo for ence260_2019_S2. Point of sales application.
 
 
 1.Download 'seng202_2019_team1_phase3.zip' and extract files.
